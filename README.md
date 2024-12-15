@@ -23,3 +23,12 @@ https://github.com/user-attachments/assets/3f526c43-ae92-48ee-8f94-bf9af77b292f
 
 https://github.com/user-attachments/assets/88807d4f-2c68-4e69-b437-77783a3117d2
 
+## Building Instructions
+
+1. Clone the Repo
+
+2. Open the Xcode Project
+
+3. Select a device or simulator to build for
+
+4. Build from the Menubar Menu "Product > Build"
