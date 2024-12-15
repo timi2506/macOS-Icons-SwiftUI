@@ -1,4 +1,4 @@
-# How to obtain an API Key for macOSicons.com?
+# How to obtain an API Key from macOSicons.com?
 
 ## Step 1:
 
