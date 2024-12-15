@@ -3,6 +3,10 @@
 ### Built in SwiftUI, API Requests made with [Alamofire](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/Alamofire/Alamofire&ved=2ahUKEwjbyNXG_amKAxWRxQIHHVQPJGkQFnoECAsQAQ&usg=AOvVaw0PJPZ84YHaX93aRPxtbbxq)
 #### Requires macOS 13 or higher / iOS 16 or higher
 
+## Download
+
+macOS and iOS Version as well as the DMG Canvas Template used to create the macOS DMGs can be found under [Releases](https://github.com/timi2506/macOS-Icons-SwiftUI/releases) and the [Latest Release](https://github.com/timi2506/macOS-Icons-SwiftUI/releases/latest)
+
 ## Showcase
 ### iOS
 
